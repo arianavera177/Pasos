@@ -1,0 +1,22 @@
+<div class="container">
+    <h1>Sensor de movimiento</h1>
+    <div>
+
+      <h2>Paso Contador: {{ pasos }}</h2>
+      <h3>Aceleración: {{ aceleracion | number: '1.0-2' }} m/s²</h3>
+    </div>
+    <!-- <button (click)="detenerMonitoreo()">Detener Monitoreo</button> -->
+<div class="toggle-cont">
+    <input class="toggle-input" id="toggle" name="toggle" type="checkbox" (change)="toggleMonitoreo($event)" />
+    <label class="toggle-label" for="toggle">
+      <div class="cont-label-play">
+        <span class="label-play"></span>
+      </div>
+    </label>
+  </div>
+  
+
+
+
+</div>
+  
