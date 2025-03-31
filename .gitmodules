@@ -1,0 +1,3 @@
+[submodule "MotionPluginAngular"]
+	path = MotionPluginAngular
+	url = https://github.com/VGMil/MotionPluginAngular.git
