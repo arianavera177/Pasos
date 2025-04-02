@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PasoApp</string>
+    <string name="title_activity_main">PasoApp</string>
+    <string name="package_name">com.miempresa.pasoapp</string>
+    <string name="custom_url_scheme">com.miempresa.pasoapp</string>
+</resources>
